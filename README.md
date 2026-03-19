@@ -3,7 +3,7 @@
 本課題では、以下の研究で公開された ETT データセットを使用しています。
 This project uses the ETT dataset from the following research.
 
-**Dataset Source:** [Informer Repository](https://github.com/zhouhaoyi/Informer2020)](https://github.com/zhouhaoyi/ETDataset)
+**Dataset Source:** https://github.com/zhouhaoyi/Informer2020)](https://github.com/zhouhaoyi/ETDataset
 
 ### Citation
 If you use this dataset or code in your research, please cite the following paper:
